@@ -4,6 +4,6 @@ Computational physics PHYS 4810
 
 Do the following before the first class:
 - You need a Google Account to use Colaboratory
-- Go to Google's (https://colab.research.google.com/notebooks/intro.ipynb#recent=true "Colaboratory Platform")
+- Go to Google's[link here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true "Colaboratory Platform")
 - You should see this page:
 
